@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Map/HackNSlash_HLODLayer_Instanced.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Map/HackNSlash_HLODLayer_Merged.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/0/LB/KP9JI7VMCHH4FFG3KKHK7P.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/D/RI/8VC79RSYM72XXO02HCE0MT.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/2/GN/39989PGGBK4IXIPKKRYHBM.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/5/3K/VCPH02GQF13Q12PHSX9EYN.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/8/WK/6TUBVWTHLXI1VDS63AUZG1.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/E/CO/OT9FZU3SCNRB2FQDEQW3K6.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/7/X9/0PC81XDYYE3FMQM88DDACR.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/E/1P/O5A4DUTWCV9SXXU245NLAZ.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/9/V1/AB1TIOH8NJO7TN4X346KCE.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/6/95/4RV3KSF9OWZ5M9AT7GJIEF.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/6/PO/WD1NZL9GTBVSBG65HLSGL6.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/2/ZC/RAD23LH1IP8FEEF99181JK.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/5/N4/2ZORYPR9BYLXX7QUIMEBCJ.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/6/63/QEFN5HUKQ92E4M4JT3GBGP.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/7/9N/WH76HFNKYU8Q92H60MY7CG.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/3/6Z/8F9CJL2H39TOZCOPTAP0EI.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/4/LT/R2K2509R076NCB1M2QCCUD.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/2/23/44Y71ATSGMDE2P2V66160N.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/3/ZJ/OM6BT7WT2HZTI6ERONYW1I.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/D/GI/DPUURI8IA9PV9PH0VE95CC.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/5/38/9U17K15TY79OSES0UX3QVZ.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/6/NP/RGN47WLNOWOEAF17OH9CCK.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/5/V0/X5J3XRGMBJOBLS933PYAE4.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/A/WP/2RM8FQO5EKTGG7ZR1N96NY.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/2/F7/93KS4P9YPLH1O18SG0Z2S8.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Map/HackNSlash.umap",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/_GENERATED/makem/Cylinder_87A476A5.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Stefano/Cylinder_87A476A5.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/8/7N/COZW13K877EGTLRXWHNFHK.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/__ExternalActors__/Map/HackNSlash/B/ZS/LNB62A9DPATLSMUNGVRK0O.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Materials/Grass.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Materials/LandscapeStefano.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Objects/Cylinder_87A476A5.uasset",
+				"C:/Users/makem/Documents/GitHub/HackNSlash/Content/Materials/SandRoad.uasset"
+			]
+		}
+	]
+}
