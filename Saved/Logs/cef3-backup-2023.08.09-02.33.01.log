@@ -1,0 +1,4 @@
+[0809/103917.713:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0809/123301.727:ERROR:angle_platform_impl.cc(43)] Renderer11.cpp:2135 (testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0007
+[0809/123301.728:ERROR:shared_context_state.cc(826)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0809/123301.728:ERROR:gpu_service_impl.cc(1187)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
